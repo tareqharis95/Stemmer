@@ -15,7 +15,7 @@ sudo pip install nltk
  - Python //to enter python 
  - import nltk
  - nltk.download()
- - d all
+ - d "The packeges needed" or d all
 //Wait for the packages to download Download .....
 
 
